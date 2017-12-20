@@ -84,7 +84,7 @@ route({
 
 	'/' () {
 		console.log('here');
-		mount(App, {
+		mount(Layout, {
 			children: <Home />
 		});
 	},
