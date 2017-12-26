@@ -45,6 +45,7 @@
     "react-popover": "^0.5.3",
     "react-portal": "^3.2.0",
     "react-typeahead": "^2.0.0-alpha.5",
+    "recompose": "^0.26.0",
     "styled-components": "^2.1.0"
   }
 }
